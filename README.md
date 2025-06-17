@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi there, I'm Vikas!
 
-<!--
-**Vikas-malakar0281/Vikas-malakar0281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring **Data Engineer** from India  
+🎓 BCA Graduate – Rabindranath Tagore University, Bhopal  
+💼 Currently **seeking opportunities** in data engineering and analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack & Skills
+
+- 💾 **SQL** – Advanced (Joins, CTEs, Window Functions, Partitioning, Optimization)
+- 🐍 **Python** – Intermediate (Pandas, NumPy, basic scripting)
+- 📊 **Power BI** – Intermediate (Dashboards, DAX, Visualizations)
+- 📋 **MS Excel** – Basic (Formulas, Pivot Tables)
+- 🔧 Tools – SSMS, Visual Studio, GitHub, Jupyter
+
+---
+
+## 🚀 Current Focus
+
+- Solving real-world SQL problems via [StrataScratch](https://platform.stratascratch.com/)
+- Learning Python for data pipelines
+- Practicing data cleaning, transformation, and reporting
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [GitHub](https://github.com/Vikas-malakar0281)
+- 📩 [Email me](malakrvikas738@gmail.com) 
+- 💼 [LinkedIn](#www.linkedin.com/in/vikas-malakar-5a9446354)
+---
+
+> _“Building one project at a time toward becoming a professional Data Engineer.”_
+
