@@ -26,9 +26,9 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [GitHub](https://github.com/Vikas-malakar0281)
-- 📩 [Email me](malakrvikas738@gmail.com) 
-- 💼 www.linkedin.com/in/vikas-malakar-5a9446354
+- 🌐 Github- https://github.com/Vikas-malakar0281
+- 📩 E-mail- malakrvikas738@gmail.com
+- 💼 Linkdin- www.linkedin.com/in/vikas-malakar-5a9446354
 ---
 
 > _“Building one project at a time toward becoming a professional Data Engineer.”_
